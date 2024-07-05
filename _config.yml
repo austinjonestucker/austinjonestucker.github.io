@@ -116,7 +116,9 @@ analytics:
 author:
   name             : "Austin Tucker"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : > 
+    Welcome to my website! Here, I document all items about my professional development. I am interested in all things data.
+    I have worked in industries such as insurance, government, transportation and marketing. As my journey in data continues, I will add content here on my trials. When I am not deep investigating data, I am avidly board gaming and spending time with my dogs.
   location         : "United States"
   email            :
   links:
@@ -138,6 +140,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/austintucker14"
 
 # Site Footer
 footer:
